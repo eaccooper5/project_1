@@ -57,7 +57,7 @@ Feel free to modify the code and experiment with different variables or data sou
 ### Examples
 Here are a few examples of common tasks:
 ​
-### Importing specific dataset from public API (and several ENdPOINTS) to collect specifi data.
+### Importing specific dataset from public API (and several ENDPOINTS) to collect specific data.
 ​
 ### Changing Variables:
 Modify the notebook to analyze different economic indicators to filter the countries list into two groups based on the category.
