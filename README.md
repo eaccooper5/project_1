@@ -12,7 +12,6 @@ Fiscal Sustainability of Advanced and Emerging Economies
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
     
 ## Introduction
 International Monetary Fund (IMF) Data Analysis Script Overview
