@@ -5,8 +5,7 @@ Group project for GW Bootcamp
 Fiscal Sustainability of Advanced and Emerging Economies
 
 ## Table of Contents
-​
-- [Project Name](#Fiscal Sustainability of Advanced and Emerging Economies)
+  - [Project Name](#Fiscal Sustainability of Advanced and Emerging Economies)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
@@ -16,7 +15,6 @@ Fiscal Sustainability of Advanced and Emerging Economies
   - [License](#license)
     
 ## Introduction
-​
 International Monetary Fund (IMF) Data Analysis Script Overview
 This script retrieves economic indicators from the International Monetary Fund (IMF) Data API, analyzes the data, and generates visualizations for selected countries. The indicators include population growth, current account balance, government net lending/borrowing, government gross debt, unemployment rate, GDP per capita, government revenue and expenditure (% of GDP), gross public debt, real GDP growth rate, and household debt. 
 
@@ -36,14 +34,16 @@ The script uses the requests, json, pandas, time, matplotlib, numpy, and seaborn
     pip install numpy
 ​
 ## Getting Started
-git clone https://github.com/eaccooper5/project_1.git cd yourproject jupyter notebook
+git clone https://github.com/eaccooper5/project_1.git 
+cd yourproject 
+jupyter notebook
 
 ## Usage
 ### 1. Running the Jupyter Notebook: to run the Jupyter Notebook containing the project code
   #### ```bash
 jupyter notebook
 ​
-### 2. Running in Visual Studio Code too
+### 2. Running in Visual Studio Code (some worked using it)
 Alternatively, you can use Visual Studio Code to work with the project. Open the project folder in VSCode and run the code cells interactively.
 ​
 ### 3. Explore Data and Visualizations
@@ -65,7 +65,6 @@ Experiment with creating custom visualizations using Seaborn and Matplotlib to c
 ​
 ### Comparative Analysis:
 Conduct a comparative analysis between advanced and emerging economies, focusing on specific economic indicators.
-
 COUNTRY_DATA: A mapping of country codes to country names.
 ADV_COUNTRIES: A list of advanced countries.
 EMER_COUNTRIES: A list of emerging countries.
