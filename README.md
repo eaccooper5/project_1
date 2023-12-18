@@ -36,10 +36,8 @@ The script uses the requests, json, pandas, time, matplotlib, numpy, and seaborn
     pip install numpy
 ​
 ## Getting Started
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-jupyter notebook
-​
+git clone https://github.com/eaccooper5/project_1.git cd yourproject jupyter notebook
+
 ## Usage
 ### 1. Running the Jupyter Notebook: to run the Jupyter Notebook containing the project code
   #### ```bash
