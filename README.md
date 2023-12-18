@@ -4,6 +4,7 @@ Group project for GW Bootcamp
 International Monetary Fund (IMF) Data Analysis Script
 Overview
 
+Background
 This script retrieves economic indicators from the International Monetary Fund (IMF) Data API, analyzes the data, and generates visualizations for selected countries. The indicators include population growth, current account balance, government net lending/borrowing, government gross debt, unemployment rate, GDP per capita, government revenue and expenditure (% of GDP), gross public debt, real GDP growth rate, and household debt. 
 
 Setup and Configuration
