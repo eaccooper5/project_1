@@ -97,5 +97,11 @@ The script prints average values for each indicator for both advanced and emergi
 ## Contributing 
 Thank you for considering contributing to this project! Contributions are welcomed and encouraged.
 
+## Written Analysis
+Written analysis containing finidings, trends, and implcations. Written analysis also contains analytical questions posed during the project and visual aids that displays results and findings.
+
+## Presentation
+Presentation containing executive summary, overview of data, aprroach to goals, conclusions, and next steps
+
 ### Note
 The NaN values in the output indicate missing data.
